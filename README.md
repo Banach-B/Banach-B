@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript. Basic stuff. 
 I want to have good fundamentals before I go into something more advanced.
 - 💞️ I’m looking to collaborate on anything that I can help with.
-- 📫 How to reach me: 
+- 📫 How to reach me: bartlomiej.banach94@gmail.com
 
 I'm a beginner at Programming. I started learning out of curiosity and got hocked.   
 
